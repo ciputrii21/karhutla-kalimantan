@@ -1,0 +1,11 @@
+{
+  "total_titik_panas": 1488643,
+  "rentang_tahun": "2012-2026",
+  "tahun_terburuk_titik": 2015,
+  "tahun_terburuk_luas": 2015,
+  "provinsi_terparah": "Kalimantan Tengah",
+  "mae_model_ha": 85211,
+  "mape_model_pct": 44.1,
+  "mae_naive_ha": 303386,
+  "fitur_terpenting": "puncak_bulan (63.9%)"
+}
